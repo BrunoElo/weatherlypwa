@@ -1,22 +1,22 @@
 {
-    "name": "WeatherLY",
-    "short_name": "WeatherLY",
-    "start_url": "index.html",
-    "scope": ".",
-    "display": "standalone",
-    "background_color": "skyblue",
-    "theme_color": "#db4938",
-    "orientation": "portrait-primary",
-    "icons" : [
-        {
-            "src": "/assets/img/ic.png",
-            "type":"image/png",
-            "sizes": "192x192"
-        },
-        {
-            "src": "/assets/img/ic512.png",
-            "type":"image/png",
-            "sizes": "512x512"
-        }
-    ]
+  "name": "WeatherLY",
+  "short_name": "WeatherLY",
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "skyblue",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/img/ic.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/img/ic512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
 }
